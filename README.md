@@ -204,5 +204,5 @@ Covers on-time delivery rate, average delivery days, cancelled and returned rate
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn link]
-- GitHub: [Your GitHub link]
+[Linkedln](https://www.linkedin.com/in/hamadkamorudeen/)
+[Github](https://github.com/hamadkamorudeen)
