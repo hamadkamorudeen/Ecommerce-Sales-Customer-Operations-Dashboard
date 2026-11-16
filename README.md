@@ -1,6 +1,6 @@
 # E-Commerce Sales, Customer & Operations Performance Analysis
 
-![Sales Dashboard](Sales.png)
+![Sales Dashboard](Background.jpg)
 
 ## Introduction
 
